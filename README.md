@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/)
 
-**fastest way to get knowledge and memory for every Claude Code session**
+**fastest way to get knowledge and memory for your Claude Code sessions**
 
 flex compiles your Claude Code session history into a queryable SQLite database with vector and hybrid retrieval. your AI agent connects via MCP, discovers the schema at runtime, and writes SQL against your history.
 
