@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/damiandelmas/flex/main/assets/banner.png" alt="flex" width="100%">
+  <img src="assets/banner.png" alt="flex" width="100%">
 </p>
 
 # flex
