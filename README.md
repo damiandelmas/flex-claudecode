@@ -10,7 +10,7 @@
 
 **fastest way to get knowledge and memory for your Claude Code sessions**
 
-flex compiles your Claude Code session history into a queryable SQLite database with vector and hybrid retrieval. your AI agent connects via MCP, discovers the schema at runtime, and writes SQL against your history.
+flex compiles your Claude Code session history for vector and hybrid retrieval. your AI agent connects via MCP, discovers the schema at runtime, and writes SQL against your history.
 
 **install:**
 
